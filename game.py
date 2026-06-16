@@ -1,7 +1,7 @@
 import random
 
-num = random.randint(1, 100)
-number = num
+number = random.randint(1, 100)
+# number = num
 attempts = 1
 
 print("I have selected a number between 1 and 100.")
