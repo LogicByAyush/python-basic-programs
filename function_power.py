@@ -1,5 +1,8 @@
+# function_power
 def power(n, m):
-    if n == 0:
+    if n == 0 and m == 0:
+        return False
+    elif n == 0:
         return 0
     elif m == 0:
         return 1
